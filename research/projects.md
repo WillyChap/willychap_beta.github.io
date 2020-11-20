@@ -31,5 +31,5 @@ I know Github has a markdown API but I wanted to try out the CommonMark library
 
 ## Probablistic Weather Prediction With Neural Networks
 
-![alt text](/images/RMSElead.png "Title")
+![alt text](http://willychap.github.io/research/images/RMSElead.png "Title")
 
