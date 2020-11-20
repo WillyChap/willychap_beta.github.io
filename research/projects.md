@@ -5,7 +5,7 @@
 ## Probablistic Weather Prediction With Neural Networks<br/>
 Testing the utility of Neural Network systems for Ensemble generation by post-processing deterministic weather forecasts. 
 
-<img src="http://willychap.github.io/research/images/RMSElead.png" alt="RMSElead" width="700"/>
+<img src="http://willychap.github.io/research/images/RMSElead.png" alt="RMSElead" width="900"/>
 
 **Project Lead:** Will Chapman<br/>
 <img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/>
