@@ -2,8 +2,7 @@
 
 # Current Projects
 
-## Probablistic Weather Prediction With Neural Networks
-
+## Probablistic Weather Prediction With Neural Networks<br/>
 Testing the utility of Neural Network systems for Ensemble generation by post-processing deterministic weather forecasts. 
 
 <img src="http://willychap.github.io/research/images/RMSElead.png" alt="RMSElead" width="700"/>
