@@ -32,4 +32,10 @@ Diagnosing monthly signal to Noise in the ENSO related N.A. Teleconnection.
 
 ## Hawaii Lee Wind Reconstruction Using Deep Learning for Satellite Ambiguity Selection
 
-<img src="http://willychap.github.io/research/images/Fig_09_high.png" alt="ELNINO" width="900"/>
+Comparitive emprical methods for correcting satellite inaccuracies in Hawaii's Lee Wind Wake. 
+
+<img src="http://willychap.github.io/research/images/Hawaii_Recon.png" alt="ELNINO" width="900"/>
+
+**Project Lead:** Will Chapman<br/>
+<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/><br/>
+**Collaborators:** Tom Kilpatrick, Shang-Ping Xie, David John Gagne<br/> <img src="http://willychap.github.io/images/TK.jpeg" alt="ACS" width="100"/> <img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/> <img src="http://willychap.github.io/images/MDS.jpg" alt="MDS" width="100"/>
