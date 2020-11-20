@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+	<html>
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><font size="7">Nick Lutsko</font></li>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/research">Research and Publications</a></li>
+		        	<li><a href="/group">Group</a></li>
+		        	<li><a href="/code">Code</a></li>
+	        		<li><a href="/notes">Notes</a></li>
+	        		<li><a href="/links">Links</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:nlutsko@ucsd.edu">email</a></li>
+	        		<li><a href="https://scholar.google.com/citations?user=8CTaCtAH-kMC&hl=en">google scholar</a></li>
+	        		<li><a href="/CV.pdf">CV</a></li>
+	        		<li><a href="https://twitter.com/Fylo_104">twitter</a></li>
+				</ul>
+			</footer>
+    			<!--{% include mathjax.html %} -->
+    			{% include analytics.html %}
+		</body>
+	</html>
