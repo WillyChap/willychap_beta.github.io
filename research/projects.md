@@ -14,6 +14,4 @@ Project Lead: Will Chapman
 
 Collaborators: Luca Delle Monache, Aneesh Subrammanian, Stefano Alessandrini, Shang-Ping Xie, Marty Ralph  
 
-<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/>
-<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/>
-<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/>
+<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/> <img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/> <img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="170"/>
