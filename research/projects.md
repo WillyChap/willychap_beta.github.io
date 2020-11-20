@@ -28,3 +28,8 @@ I know Github has a markdown API but I wanted to try out the CommonMark library
 ## So If I add text or an image here: I should be good? 
 
 1. what do you think? 
+
+## Probablistic Weather Prediction With Neural Networks
+
+![alt text](/images/RMSElead.png "Title")
+
