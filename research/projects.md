@@ -23,3 +23,8 @@ I know Github has a markdown API but I wanted to try out the CommonMark library
 
 ## To do
 1. Add more CSS to style this sucker better
+
+
+## So If I add text or an image here: I should be good? 
+
+1. what do you think? 
