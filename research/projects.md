@@ -16,4 +16,9 @@ Testing the utility of Neural Network systems for Ensemble generation by post-pr
 ## Monthly Modulation of ENSO Teleconnections: Implications for North American Potential Predictability <br/>
 Diagnosing monthly signal to Noise in the ENSO related N.A. Teleconnection. 
 
-<img src="http://willychap.github.io/research/images/Fig_09.jpg" alt="ELNINO" width="900"/>
+<img src="http://willychap.github.io/research/images/Fig_09_high.png" alt="ELNINO" width="900"/>
+
+
+**Project Lead:** Will Chapman<br/>
+<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/><br/>
+**Collaborators:** Aneesh Subrammanian, Mike Sierks, Shang-Ping Xie, Marty Ralph<br/> <img src="http://willychap.github.io/images/ACS.jpg" alt="ACS" width="100"/> <img src="http://willychap.github.io/images/MDS.jpg" alt="MDS" width="100"/> <img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/> <img src="http://willychap.github.io/images/FMR.jpg" alt="FMR" width="100"/>
