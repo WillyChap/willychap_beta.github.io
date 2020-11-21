@@ -18,13 +18,13 @@ Testing the utility of Neural Network systems for Ensemble generation by post-pr
 
 ## Monthly Modulation of ENSO Teleconnections: Implications for North American Potential Predictability <br/>
 Diagnosing monthly signal to Noise in the ENSO related N.A. Teleconnection. 
-
+beans
 <img src="http://willychap.github.io/research/images/Fig_09_high.png" alt="ELNINO" width="900"/>
 
 
 **Project Lead:** Will Chapman<br/>
-<img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/><br/>
-**Collaborators:** Aneesh Subramanian, Mike Sierks, Shang-Ping Xie, Marty Ralph, Youichi Kamae <br/> <img src="http://willychap.github.io/images/ACS.jpg" alt="ACS" width="100"/> <img src="http://willychap.github.io/images/MDS.jpg" alt="MDS" width="100"/> <img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/> <img src="http://willychap.github.io/images/FMR.jpg" alt="FMR" width="100"/> <img src="http://willychap.github.io/images/YK.jpg" alt="FMR" width="100"/>
+<a href="http://sites.google.com"><img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/></a><br/>
+**Collaborators:** Aneesh Subramanian, Mike Sierks, Shang-Ping Xie, Marty Ralph, Youichi Kamae <br/> <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis"><img src="http://willychap.github.io/images/ACS.jpg" alt="ACS" width="100"/></a> <img src="http://willychap.github.io/images/MDS.jpg" alt="MDS" width="100"/> <img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/> <img src="http://willychap.github.io/images/FMR.jpg" alt="FMR" width="100"/> <img src="http://willychap.github.io/images/YK.jpg" alt="FMR" width="100"/>
 
 *****
 *****
