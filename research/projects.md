@@ -15,7 +15,6 @@ Testing the utility of Neural Network systems for Ensemble generation by post-pr
 *****
 *****
 *****
-<a href="https://sxie.scrippsprofiles.ucsd.edu/">
 ## Monthly Modulation of ENSO Teleconnections: Implications for North American Potential Predictability <br/>
 Diagnosing monthly signal to Noise in the ENSO related N.A. Teleconnection. 
 
