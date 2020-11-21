@@ -39,4 +39,4 @@ Comparitive emprical methods for correcting satellite inaccuracies in Hawaii's L
 
 **Project Lead:** Will Chapman<br/>
 <img src="http://willychap.github.io/images/william_chapman_square.jpg" alt="Me" width="100"/><br/>
-**Collaborators:** Tom Kilpatrick, Shang-Ping Xie, David John Gagne<br/> <a href="https://tomkilpatrick.github.io/"><img src="http://willychap.github.io/images/TK.jpg" alt="TK" width="100"/></a> <a href="https://sxie.scrippsprofiles.ucsd.edu/"><img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/></a> <a href="https://djgagne.github.io/"><img src="http://willychap.github.io/images/DJG.jpg" alt="DJG" width="100"/></a>
+**Collaborators:** Tom Kilpatrick, Shang-Ping Xie, David John Gagne<br/> <a href="https://tomkilpatrick.github.io/"><img src="http://willychap.github.io/images/TK.jpeg" alt="TK" width="100"/></a> <a href="https://sxie.scrippsprofiles.ucsd.edu/"><img src="http://willychap.github.io/images/SPX.jpg" alt="SPX" width="100"/></a> <a href="https://djgagne.github.io/"><img src="http://willychap.github.io/images/DJG.jpg" alt="DJG" width="100"/></a>
